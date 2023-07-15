@@ -1,0 +1,21 @@
+.quote-home {
+  margin-top: 90px;
+  padding: 10px;
+  text-align: center;
+  color: #ffbe00;
+  font-size: 3rem;
+  background-color: #fff6ef;
+  border-radius: 50px;
+}
+.quote-img {
+  width: 400px;
+  margin-top: 20px;
+}
+@media screen and (max-width: 659px) {
+  .quote-home {
+    font-size: 2rem;
+  }
+  .quote-img {
+    width: 250px;
+  }
+}
